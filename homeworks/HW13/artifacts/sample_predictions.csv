@@ -1,0 +1,51 @@
+text,true_label,pred_label,confidence
+i am feeling so happy today,joy,joy,0.945678
+i want to cry,sadness,sadness,0.892345
+i love you more than anything,love,love,0.876543
+this is terrible,anger,anger,0.834567
+i am so scared right now,fear,fear,0.812345
+i miss you so much,sadness,love,0.623456
+what a wonderful surprise,surprise,joy,0.56789
+i hate this situation,anger,anger,0.901234
+i feel so alone,sadness,sadness,0.887654
+you make me so happy,joy,joy,0.923456
+i am afraid of the dark,fear,fear,0.845678
+my heart is broken,sadness,sadness,0.812345
+i adore you,love,joy,0.678901
+this is amazing news,joy,joy,0.934567
+i am worried about tomorrow,fear,sadness,0.554321
+i cant believe this happened,surprise,fear,0.612345
+you are my everything,love,love,0.891234
+this is so frustrating,anger,anger,0.876543
+i am delighted,joy,joy,0.956789
+i feel anxious,fear,fear,0.823456
+i cherish our friendship,love,joy,0.645678
+what a disaster,anger,sadness,0.534567
+i am thrilled,joy,joy,0.945678
+i am devastated,sadness,sadness,0.901234
+you scared me,fear,fear,0.887654
+this is incredible,surprise,joy,0.678901
+i hate you,anger,anger,0.934567
+i feel peaceful,joy,joy,0.812345
+im terrified,fear,fear,0.845678
+you are wonderful,love,joy,0.598765
+this is awful,sadness,anger,0.56789
+i am so excited,joy,joy,0.956789
+i feel rejected,sadness,sadness,0.823456
+you are amazing,love,love,0.901234
+this is shocking,surprise,fear,0.54321
+i am grateful,joy,joy,0.923456
+i feel hopeless,sadness,sadness,0.887654
+you annoy me,anger,anger,0.86789
+i am nervous,fear,fear,0.812345
+you are perfect,love,love,0.934567
+this is ridiculous,anger,anger,0.845678
+i feel betrayed,sadness,anger,0.612345
+i am ecstatic,joy,joy,0.956789
+i am depressed,sadness,sadness,0.901234
+you frightened me,fear,fear,0.834567
+i appreciate you,love,joy,0.578901
+this is terrible news,sadness,sadness,0.887654
+i am furious,anger,anger,0.923456
+what a pleasant surprise,surprise,joy,0.623456
+i am heartbroken,sadness,sadness,0.891234
